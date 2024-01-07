@@ -1,0 +1,13 @@
+## Vehicle Tracking System
+The Global Positioning System (GPS) is a space-based satellite navigation system that provides location 
+information. This system uses GPS to track the location of the vehicle. This system will track location of 
+the vehicle and will send details about the location to the admin. This system helps admin to find out the 
+location of the driver driving the vehicle. Admin will know which driver is in which location. This 
+system can be implemented in call taxi to find out the location of the driver driving the vehicle and will 
+help the admin to allocate taxi to the customer. User login to the system using his user id and password. 
+System will track the user’s location with the help of GPS and will send this detail to admin. Admin will 
+access the system using his admin ID and password and will view the location of the driver driving the 
+vehicle based on these details he will perform various operations. This application helps the admin to find 
+the location of various drivers. He can keep record of the driver’s attendance that will help him to 
+calculate salary of the driver very easily. Driver cannot do any type of cheating otherwise admin can 
+easily find out using this system
